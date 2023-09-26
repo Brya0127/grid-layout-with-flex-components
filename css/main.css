@@ -17,9 +17,6 @@ body {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  /* justify-content: center; */
-  /* align-items: center; */
-  /* justify-items: flex-end; */
 }
 
 .emoji h2 {
